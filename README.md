@@ -13,6 +13,6 @@
 
 ## Atuações
 
-* **IFRN (SADHI) / 2021-2022** - Durante o 4° ano do ensino médio, trabalhei no  [SADHI](https://www2.ifrn.edu.br/sadhimodular/index.php?path=login) resolvendo issues(problemas), que podiam estar relacionado a qualquer coisa, desde o banco de dados até o JavaScript da pagina.http://www2.ifrn.edu.br/sadhimodular/
+* **IFRN (SADHI) / 2021-2022** - Durante o 4° ano do ensino médio, trabalhei no  [SADHI](https://www2.ifrn.edu.br/sadhimodular/index.php?path=login) resolvendo issues(problemas), que podiam estar relacionado a qualquer coisa, desde o banco de dados até o JavaScript da pagina.
 
 * **Jovem Aprendiz / 2021-2022** - Durante todo o periodo como JA, atuei desenvolvendo softwares e automação de tarefas em python, que surgiam de acordo com a necessidade da empresa.
