@@ -9,7 +9,7 @@
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 
-**Resumo** Durante todo meu tempo como estudande do IFRN, vi diversas tecnologias e desenvolvi em diversas tecnologias. Algumas dessas tecnologias, aprendi por curiosidade e porque gosto de programação. 
+**Resumo:** Durante todo meu tempo como estudande do IFRN, vi diversas tecnologias e desenvolvi em diversas tecnologias. Algumas dessas tecnologias, aprendi por curiosidade e porque gosto de programação. 
 
 ## Atuações
 
