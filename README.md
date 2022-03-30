@@ -7,7 +7,7 @@
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
-
+![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
 **Resumo:** Durante todo meu tempo como estudande do IFRN, vi diversas tecnologias e desenvolvi em diversas tecnologias. Algumas dessas tecnologias, aprendi por curiosidade e porque gosto de programação. 
 
